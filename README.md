@@ -1,6 +1,6 @@
 # Pokedex-completa
 <p align="center">
-Pokedex de pokemon completa visualize aqui: <a href="https://drey021.github.io/mini-portfolio/" target="_blank">"Pokedex"</a>.
+Pokedex de pokemon completa visualize aqui: <a href="https://drey021.github.io/Pokedex-completa/" target="_blank">"Pokedex"</a>.
 </p>
 
 # Linguagens
